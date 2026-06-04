@@ -1,10 +1,26 @@
 # Athena-Test
 
-View the live Figma prototype here:
+An interactive coded prototype for the BCG Athena launch dashboard.
+
+Open `index.html` in a browser to run the prototype locally.
+
+## What Is Included
+
+- `index.html`: browser entry point
+- `styles.css`: Athena dashboard and detail-screen styling
+- `app.js`: client-side prototype routes and interactions
+
+## Prototype Flow
+
+- Overview screen shows progress, priorities, resume card, and four launch paths.
+- Clicking Practice, Patient, Financial, or Clinical opens the matching detail screen.
+- The detail screen Overview/back controls return to the overview.
+
+## Live Figma Reference
 
 https://www.figma.com/design/nsaIu3rxrpW2ckIBOSb60T/BCG_Athena?node-id=299-59
 
-## Prototype Flow
+## Figma Prototype Flow
 
 - Practice card -> Practice detail destination
 - Patient card -> Patient detail destination
